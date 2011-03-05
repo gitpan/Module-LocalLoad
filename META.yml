@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Module-LocalLoad
-version:            0.030
+version:            0.172
 abstract:           Create a local safe haven for global modules
 author:
     - Magnus Woldrich <trapd00r@trapd00r.se>
